@@ -1,4 +1,4 @@
-# NIGHT_VISION_SELF
+# AI Club
 This repo contains some of the code I have worked on as a part of my tenure in the AI Club, IIT Madras.
 
 A brief overview of the contents of this repo :
