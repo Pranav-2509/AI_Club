@@ -8,5 +8,5 @@ A brief overview of the contents of this repo :
 
 3)  "U_Net", "Vision_Transformer_implementation" and "GAN" contain the code implementation of the respective models, which I developed during the Literature Review phase.
 
-4)  "Paper_Implementation_Retinex" contains the code I wrote for the model introduced in the following paper
+4)  "Paper_Implementation_Retinex" contains the code I developed for the model introduced in the following paper
    Link - https://www.researchgate.net/publication/375596649_A_depth_iterative_illumination_estimation_network_for_low-light_image_enhancement_based_on_retinex_theory
