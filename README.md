@@ -6,7 +6,7 @@ A brief overview of the contents of this repo :
 
 2) "Damped_Oscillator_PINN" and "NeuralODE" contain the code for a basic PINN and Neural Ordinary Differential Equation solver respectively. The code demonstration was performed by me in a workshop on PINNS and Neural ODEs.
 
-3)  "U_Net", "Vision_Transformer_implementation" and "GAN" contain the code implementation of the respective models, which I did during the Literature Review of my AI Club Project member tenure.
+3)  "U_Net", "Vision_Transformer_implementation" and "GAN" contain the code implementation of the respective models, which I developed during the Literature Review of my AI Club Project member tenure.
 
 4)  "Paper_Implementation_Retinex" contains the code I wrote for the model introduced in the following paper
    Link - https://www.researchgate.net/publication/375596649_A_depth_iterative_illumination_estimation_network_for_low-light_image_enhancement_based_on_retinex_theory
